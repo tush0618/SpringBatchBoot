@@ -1,0 +1,12 @@
+REPORT-------------------------------------------------
+RMDS: ABCD   BALANCE TRANSFER FILE   RUNDATE: 11/12/2018
+REPORTDATE: 10/12/2018                           PAGE: 1
+    	   DATE  TRANSACTIONS     AMOUNT
+     ----------  ------------	  ------
+     09/12/2018 	      300        $12
+     08/12/2018		      400        $17
+     07/12/2018		      500        $19 
+  TOTAL                  1100 	     $48
+REJECTCHECK                10         $5
+REJECTOTHER                20        $15
+FEDGRANDTOTAL            1070        $20
